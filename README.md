@@ -2,7 +2,7 @@
 <p align="center">Programmer, designer, and project manager.</p>
 
 <p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=theashleygirl&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=MCYTBot&v=5" alt="Top languages">
+  <img height="170" src="./profile/top-langs.svg" alt="Top languages">
 </p>
 
 <p align="center">
